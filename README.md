@@ -1,6 +1,16 @@
 # Password-Complexity-Checker
 
+Task 3 : Password-Complexity-Checker
 
+company: Intern Infobyte
+
+Name: Mistry Urvi Rakeshkumar
+
+Domain: Cyber Security
+
+Duration : 6 week
+
+Tools & Technology:-python programming language -Google Colab
 🔐 Password Complexity Checker in Python
 
 📌 Overview
